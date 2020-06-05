@@ -1,5 +1,8 @@
 # Airbnb-New-User-Bookings
 
+## Goal
+Predict in which country a new user will make his or her first booking.
+
 ## Dataset Resource
 [Kaggle Competition](https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/overview)
 
